@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "sdeleon28-a": "^1.0.0"
+    },
+    "license": "MIT",
+    "main": "index.js",
+    "name": "sdeleon28-b",
+    "version": "1.0.0"
+}
